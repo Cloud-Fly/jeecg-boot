@@ -39,7 +39,7 @@ JeecgBoot的宗旨是降低前后端分离的开发成本，提高UI能力的同
 - [@antv/g2](https://antv.alipay.com/zh-cn/index.html) - Alipay AntV 数据可视化图表
 - [Viser-vue](https://viserjs.github.io/docs.html#/viser/guide/installation)  - antv/g2 封装实现
 - eslint，[@vue/cli 3.2.1](https://cli.vuejs.org/zh/guide)
-
+- vue-print-nb - 打印
 
 #### 开发环境
 
@@ -225,3 +225,10 @@ yarn run lint
 ----
 
 > @vue/cli 升级后，eslint 规则更新了。由于影响到全部 .vue 文件，需要逐个验证。既暂时关闭部分原本不验证的规则，后期维护时，在逐步修正这些 rules
+
+
+## 捐赠 
+
+如果觉得还不错，请作者喝杯咖啡吧 ☺
+
+![](https://static.oschina.net/uploads/img/201903/08155608_0EFX.png)
